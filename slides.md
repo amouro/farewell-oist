@@ -119,19 +119,6 @@ h2 {
   -moz-text-fill-color: transparent;
 }
 </style>
----
-transition: slide-up
-level: 2
----
-
-Name:
-
----
-transition: fade-out
-level: 2
----
-
-Name:
 
 ---
 transition: slide-left
