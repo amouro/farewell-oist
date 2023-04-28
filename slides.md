@@ -18,13 +18,24 @@ info: |
   Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
-# persist drawings in exports and build
+# enable slide recording, can be boolean, 'dev' or 'build'
+record: 'dev'
+# drawing options
+# Learn more: https://sli.dev/guide/drawing.html
 drawings:
+  enabled: true
   persist: false
+  presenterOnly: false
+  syncAll: true
 # page transition
 transition: slide-left
 # use UnoCSS
 css: unocss
+layout: end
+---
+#
+
+---
 layout: quote
 ---
 
