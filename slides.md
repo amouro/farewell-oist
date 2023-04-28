@@ -19,7 +19,7 @@ info: |
 
   Learn more at [Sli.dev](https://sli.dev)
 # enable slide recording, can be boolean, 'dev' or 'build'
-record: 'dev'
+record: true
 # drawing options
 # Learn more: https://sli.dev/guide/drawing.html
 drawings:
