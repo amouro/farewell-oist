@@ -44,6 +44,7 @@ layout: quote
 <style>
 h1 {
   font-family: "Mochiy Pop P One" !important;
+  line-height: 1.3em !important;
   background-color: #2B90B6;
   background-image: linear-gradient(45deg, #4EC5D4 25%, #146b8c 60%);
   background-size: 100%;
@@ -66,6 +67,7 @@ layout: fact
 <style>
 h1 {
   font-family: "Mochiy Pop P One" !important;
+  line-height: 1.3em !important;
   background-color: #2B90B6;
   background-image: linear-gradient(45deg, #4EC5D4 25%, #146b8c 60%);
   background-size: 100%;
@@ -86,8 +88,8 @@ layout: statement
 <style>
 h1 {
   font-family: "Reggae One" !important;
-  font-size: 8rem !important;
   line-height: 1.3em !important;
+  font-size: 8rem !important;
   background-color: #2B90B6;
   background-image: linear-gradient(45deg, #ffa586 25%, #df0000 60%);
   background-size: 100%;
@@ -108,9 +110,9 @@ layout: intro
 <style>
 h1 {
   background-color: #2B90B6;
+  line-height: 1.3em !important;
   background-image: linear-gradient(45deg, #e35887 45%, #b71c1c 60%);
   font-size: 5.5rem !important;
-  line-height: 1.3em !important;
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -141,6 +143,7 @@ layout: fact
 <style>
 h1 {
   background-color: #2B90B6;
+  line-height: 1.3em !important;
   background-image: linear-gradient(45deg, #0f60cd 30%, #d61267 70%);
   background-size: 100%;
   -webkit-background-clip: text;
@@ -163,6 +166,7 @@ layout: quote
 <style>
 h1 {
   font-family: "Mochiy Pop P One" !important;
+  line-height: 1.3em !important;
   background-color: #2B90B6;
   background-image: linear-gradient(45deg, #e35887 25%, #de1515 60%);
   background-size: 100%;
@@ -182,6 +186,7 @@ layout: statement
 <style>
 h1 {
   font-family: "Mochiy Pop P One" !important;
+  line-height: 1.3em !important;
   background-color: #2B90B6;
   background-image: linear-gradient(45deg, #906a00 25%, #cabd49 60%);
   background-size: 100%;
@@ -200,6 +205,7 @@ layout: fact
 <style>
 h1 {
   font-family: "Mochiy Pop P One" !important;
+  line-height: 1.3em !important;
   background-color: #2B90B6;
   background-image: linear-gradient(135deg, #000 30%, #b71c1c 35%, #b71c1c 60%, #cca802 65%);
   background-size: 100%;
@@ -223,6 +229,7 @@ layout: section
 <style>
 h1, h2 {
   font-family: "Mochiy Pop P One" !important;
+  line-height: 1.3em !important;
   background-color: #2B90B6;
   background-image: linear-gradient(135deg, #000 20%, #b71c1c 25%, #b71c1c 50%, #cca802 55%);
   background-size: 100%;
