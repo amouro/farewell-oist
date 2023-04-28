@@ -138,7 +138,7 @@ transition: slide-left
 layout: fact
 ---
 
-# All good things must come an end
+# All good things must come to an end
 
 <style>
 h1 {
